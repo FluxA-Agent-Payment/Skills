@@ -10,19 +10,6 @@
   },
   "plugins": [
     {
-      "name": "extract-linkedin-leads",
-      "description": "Extracts LinkedIn profiles of professionals based on search criteria like company, role, industry, or keywords.",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/extract-linkedin-leads"
-      ],
-      "author": {
-        "name": "sky"
-      },
-      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/extract-linkedin-leads"
-    },
-    {
       "name": "illustrated-slides-with-nano-banana",
       "description": "Create PowerPoint/PDF presentations where each slide is a complete AI-generated image with all text embedded. Supports multiple visual styles (corporate, minimalist, creative, kawaii, custom). Use when user wants fully-illustrated slides, visual-first decks, or AI-generated presentation images via x402 payments.",
       "source": "./",
